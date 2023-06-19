@@ -52,6 +52,8 @@ kbst@serpent:/infra$ kubectl port-forward pod/`kubectl get pods -n n8n -l servic
 ```
 and navigate to http://localhost:5678.
 
+![Tada!!](n8n-installed.PNG)
+
 ## Useful links
 * https://www.kubestack.com/framework/tutorial/provision-infrastructure/
 * https://www.kubestack.com/framework/tutorial/provision-infrastructure/#setup-authentication
